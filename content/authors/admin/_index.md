@@ -7,7 +7,7 @@ bio: " I'm an data analyst and R/Shiny developer. I have also degree in
 social:
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fab
     link: https://twitter.com/statismike
     icon: twitter
 organizations:
